@@ -1,14 +1,6 @@
-## Getting Started
+## Overview
+Asks the user for 5 numbers, stores those numbers in an ArrayList,
+then finds the sum, product, largest, and smallest of those
+numbers.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+Contains a HashMap of car models (Key) and makes (Value). Asks the customer what car (model) they are looking for, uses the HashMap to determine if the car dealership haa that vehicle, and what make it is.
